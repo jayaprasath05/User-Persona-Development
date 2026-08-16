@@ -1,4 +1,4 @@
-# OncoGenius AI (Internship Project)
+# User Persona Development (Internship Project)
 
 A UI/UX design project — a Figma file and page previews — created during my **UI/UX Design internship** at **Codtech IT Solutions Pvt. Ltd.**
 
@@ -10,29 +10,29 @@ A UI/UX design project — a Figma file and page previews — created during my 
 
 ## About
 
-This repository holds the Figma source file (`User_Persona_Development.fig`) along with page preview screenshots, designed for **OncoGenius AI** — a concept clinical decision-support dashboard for oncology, covering patient summaries, treatment planning, genomic profiling, clinical trial matching, and historical case analysis.
+This repository holds the Figma source file (`User_Persona_Development.fig`) along with page preview screenshots, designed for **OncoGenius AI** — a clinical support dashboard concept for oncologists, featuring an AI treatment recommendation engine, genomic profiling, clinical trial matching, treatment planning, and patient case history.
 
 ## Design Previews
 
 ### Dashboard
 ![Dashboard](designs/Dashboard.png)
 
+### Genomics
+![Genomics](designs/Genomics.png)
+
+### Clinical Trials
+![Clinical Trials](designs/Clinical_Trials.png)
+
 ### Treatment Plan
 ![Treatment Plan](designs/Treatment_Plan.png)
 
-### Genomics Deep-Dive
-![Genomics Deep Dive](designs/Genomics_Deep_Dive.png)
-
-### Clinical Trials Matcher
-![Clinical Trials Matcher](designs/Clinical_Trials_Matcher.png)
-
-### Historical Case Matrix
-![Historical Case Matrix](designs/Historical_Case_Matrix.png)
+### History
+![History](designs/History.png)
 
 ## Files
 
 - `User_Persona_Development.fig` — Original Figma project file. Open it with [Figma](https://www.figma.com) to view or edit.
-- `designs/` — PNG previews of each screen in the design.
+- `designs/` — PNG previews of each page in the design.
 
 ## How to open the Figma file
 
